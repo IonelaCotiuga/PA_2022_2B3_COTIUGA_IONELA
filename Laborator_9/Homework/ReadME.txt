@@ -1,0 +1,1 @@
+Am incercat si punctul in care se cerea rezolvarea cu Choco Solver. Sunt afisate perechi de orase care incep aceeasi litera, suma populatiei lor este cuprinsa intre numerele 1 si 20 si sunt din tari diferite. :D
